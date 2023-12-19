@@ -1,5 +1,7 @@
 # react-weather
 
+[Deployed Here](https://weather-app-ndw7.onrender.com/)
+
 educative course
 
 use the [Open Weather API](https://openweathermap.org/api)
